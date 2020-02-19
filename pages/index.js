@@ -60,7 +60,7 @@ const Home = ({data}) => {
 
       <div className="flex text-center">
         <div className="w-full m-4">
-          <h1 className="text-4xl">Macro Compliance Tracker</h1>
+          <h1 className="text-4xl">Macro Compliance Tracker by jbtleloup</h1>
         </div>
       </div>
       
